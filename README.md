@@ -5,22 +5,22 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Development-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Research-8b5cf6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Minecraft-SMP-22c55e?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Passion-IA-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/World-Minecraft-green?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 À propos de moi
 
-💡 Développeur passionné qui construit des systèmes modernes, des bots intelligents et des applications web performantes.
+Développeur passionné, je construis des systèmes modernes, des bots intelligents, des applications web et des projets Minecraft.
 
-- 💻 Développement full-stack (Web & Apps)
-- 🎮 Création de plugins Minecraft & serveurs SMP
-- 🤖 IA, automatisation et agents intelligents
-- 🌐 UI/UX modernes et interfaces clean
-- ⚙️ Création de projets utiles et fonctionnels
+- 💻 Développement full-stack en évolution constante  
+- 🎮 Création de serveurs et plugins Minecraft avancés  
+- 🤖 Exploration IA / agents intelligents / automation  
+- 🌐 UI/UX modernes et interfaces propres  
+- ⚙️ J’aime builder des projets concrets et utiles  
 
 ---
 
@@ -28,21 +28,21 @@
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> ☕ Java  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> 🟨 JavaScript  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/> 🔷 TypeScript  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> 🌐 HTML5  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> 🎨 CSS3  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> ⚛️ React  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> 🟢 Node.js  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> 🐍 Python  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> 🔧 Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -55,10 +55,10 @@
 
 ## 📂 Projets
 
-- 🎮 Plugins Minecraft avancés & systèmes SMP  
+- 🎮 Plugins Minecraft haute performance (SMP, systèmes custom)  
 - 🖥️ Applications desktop & outils automatisés  
-- 🤖 Bots IA & agents intelligents  
-- 🌍 Sites web modernes (UI clean & rapide)  
+- 🤖 Bots IA & systèmes intelligents  
+- 🌍 Sites web modernes avec UI optimisée  
 
 ---
 
@@ -66,17 +66,20 @@
 
 <p align="center">
 
-💬 <b>Discord :</b> belyxzor  
+<img src="https://img.shields.io/badge/Discord-belyxzor-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
+</p>
+
+<p align="center">
 📺 YouTube : bientôt disponible  
 🌐 Portfolio : en construction  
-
 </p>
 
 ---
 
 ## 🎯 Vision
 
-🚀 Créer des systèmes puissants, propres et intelligents en combinant développement, IA et automatisation.
+Créer des systèmes puissants, propres et intelligents en combinant développement, automatisation et intelligence artificielle.
 
 ---
 
