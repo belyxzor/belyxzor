@@ -1,37 +1,29 @@
 # 👋 Salut, moi c'est Belyxzor
 
-Passionné par le développement et la création de projets, j'aime apprendre de nouvelles technologies et transformer mes idées en réalité. Je travaille principalement sur des projets autour de Minecraft, des applications, des interfaces modernes et des outils basés sur l'intelligence artificielle.
-
-## 🚀 À propos de moi
-
-- 💻 Développeur passionné
-- 🎮 Fan de Minecraft et de la création de serveurs SMP
-- 🤖 Intéressé par l'intelligence artificielle et les agents IA
-- 🌐 J'aime créer des sites web et des applications
-- 📚 Toujours en train d'apprendre de nouvelles choses
+Passionné par le développement et la création de projets, j'aime apprendre et transformer mes idées en réalité.
 
 ## 🛠️ Technologies
 
-- Java
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- React
-- Node.js
-- Python
+<p align="left">
 
-## 📂 Projets
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> TypeScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> Node.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python  
 
-- 🎮 Plugins Minecraft
-- 🚀 Applications de bureau
-- 🤖 Projets d'IA
-- 🌍 Sites web modernes
+</p>
+
+## 🚀 Projets
+
+- 🎮 Plugins Minecraft  
+- 🖥️ Applications desktop  
+- 🤖 IA & agents intelligents  
+- 🌍 Sites web modernes  
 
 ## 🎯 Objectif
 
-Construire des projets utiles, apprendre continuellement et partager mes créations avec la communauté.
-
----
-
-⭐ N'hésite pas à explorer mes projets !
+Créer des projets utiles et évoluer chaque jour en tant que développeur.
